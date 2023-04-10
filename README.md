@@ -1,2 +1,2 @@
-# out-of-the-pitcture
+# out-of-the-picture
 discord bot that deletes every single message sent by a user, either in a specific channel or in all of a certain server, with IDs provided in the terminal. deletion is done manually per message instead of in bulk, allowing it to work with users who are no longer in a server, as well as with older messages, however it is a lot slower. written by chatgpt with a few modifications by me
